@@ -7,8 +7,6 @@
 /*
 KNOWN ISSUES:
  -a -u is achieved with -o command
-
- -p does not output ill-formed characters
 */
 
 void displayUTF()
